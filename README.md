@@ -36,7 +36,7 @@ volei
 ## Contato
 
 - E-mail:scheidt.eduardo@escola.pr.gov.br
-- GitHub:
+- GitHub:scheidteduardo-droid/eduardoH
 - LinkedIn:
 
 ---
